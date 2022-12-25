@@ -1,0 +1,45 @@
+[{
+        "name": "Ahmed",
+        "age": 30,
+        "img": "https://assets-global.website-files.com/62d9141584e7b750edcafa6a/638dbcdfdd44de8430ca93fb_Ahmed_Nasr_Trainer_Fullstack.png",
+        "id": 1
+    },
+    {
+        "name": "Steffen",
+        "age": 30,
+        "img": "https://assets-global.website-files.com/62d9141584e7b750edcafa6a/638dbc9297a47d29443a71c1_Steffen_Kloempges_Trainer_Fullstack.png",
+        "id": 2
+    },
+    {
+        "name": "Cristian",
+        "age": 35,
+        "img": "https://assets-global.website-files.com/62d9141584e7b750edcafa6a/638dbccab55f597a69a4e794_Christian_Peters_Trainer_Fullstack.png",
+        "id": 3
+    },
+    {
+        "name": "Natalie",
+        "age": 35,
+        "img": "https://assets-global.website-files.com/62d9141584e7b750edcafa6a/638dbc457a9f629669f66e94_Natalie_Streich_Bewerbungscoaching.jpg",
+        "id": 4
+    },
+    {
+        "name": "Frederic",
+        "age": 30,
+        "img": "https://assets-global.website-files.com/62d9141584e7b750edcafa6a/638dbd5014dc6ef4d054fa44_Frederic_Lahme_Trainer_Frontend.jpg",
+        "id": 5
+    },
+    {
+        "name": "Julia",
+        "age": 30,
+        "img": "https://assets-global.website-files.com/62d9141584e7b750edcafa6a/638dbd3fdfce2358d5c84a00_Julia_Rintz_Trainerin_Frontend.png",
+        "id": 6
+    },
+    {
+        "name": "Henri",
+        "age": 30,
+        "img": "https://assets-global.website-files.com/62d9141584e7b750edcafa6a/638dbc5bac558a8a2b803d33_Henri_Delfmann_Bildungsberatung.jpg",
+        "id": 7
+    }
+
+
+]
