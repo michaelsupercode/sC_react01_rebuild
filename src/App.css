@@ -1,10 +1,10 @@
 body {
-    display: flex;
+    display: grid;
 justify-content: center;
 }
 
 header ul {
-    justify-content: end;
+    justify-content: start;
     color: rgb(16, 16, 55);
 }
 
