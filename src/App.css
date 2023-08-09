@@ -1,6 +1,7 @@
 body {
     display: grid;
 justify-content: center;
+text-align: center;
 }
 
 header ul {
