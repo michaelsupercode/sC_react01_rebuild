@@ -5,11 +5,7 @@ justify-content: center;
 
 header ul {
     justify-content: end;
-    color: blue;
-}
-
-h2 {
-    margin: 2% 0 0 4.1%;
+    color: rgb(16, 16, 55);
 }
 
 header ul li {
@@ -36,3 +32,9 @@ footer ul li {
     margin-right: 14vw;
     color: blue;
 }
+
+h6 {
+    margin: 5vh;
+    text-align: center;
+    }
+    
