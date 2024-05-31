@@ -9,7 +9,7 @@ function App() {
         <Header / >
         <TrainerSection / >
         <Footer / >
-        <div><h6>2023_rebuild_michaelsuperCode_revised_version</h6></div>	
+        <div><h6>2024_rebuild_michaelsuperCode_revised_version</h6></div>	
         </div>
     );
 }
