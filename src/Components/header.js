@@ -8,6 +8,7 @@ const Header = () => {
                 two="About"
                 three="FAQ"
                 four="anything"
+                    five="wTf"
             />
         </header>
     )
